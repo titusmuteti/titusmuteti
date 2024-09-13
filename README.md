@@ -5,7 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=titusmuteti" alt="titusmuteti" /></a> </p>
 
+- 🔭 I’m currently working on [Soma School Management System](https://soma-pi.vercel.app/)
+
 - 🌱 I’m currently learning **Postgresql**
+
+- 👯 I’m looking to collaborate on [Soma School Management System](https://soma-pi.vercel.app/)
 
 - 👨‍💻 All of my projects are available at [https://portfolio-titusmuteti.vercel.app/](https://portfolio-titusmuteti.vercel.app/)
 
