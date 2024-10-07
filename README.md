@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Soma School Management System](https://soma-pi.vercel.app/)
 
-- 🌱 I’m currently learning **Postgresql**
+- 🌱 I’m currently learning **nest.js**
 
 - 👯 I’m looking to collaborate on [Soma School Management System](https://soma-pi.vercel.app/)
 
