@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=titusmuteti" alt="titusmuteti" /></a> </p>
 
-- 🔭 I’m currently working on [Soma School Management System](https://elimu-hub-eosin.vercel.app/)
+- 🔭 I’m currently working on [Elimu hub](https://elimu-hub-eosin.vercel.app/)
 
 - 🌱 I’m currently learning **nest.js**
 
