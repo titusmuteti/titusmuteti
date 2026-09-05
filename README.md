@@ -40,15 +40,3 @@
 </p>
 
 ---
-
-### 🏆 GitHub Activity
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=titusmuteti&theme=flat&no-frame=true&margin-w=10" />
-</p>
-
----
-
-<p align="center">
-  <b>Thanks for visiting my profile 👋</b>
-</p>
