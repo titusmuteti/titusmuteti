@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About
 
-* 💻 Frontend developer from Kenya
+* 💻 Fullstack developer
 * 💬 Ask me about **JavaScript, React & Ruby on Rails**
 * ⚡ Fun fact: **The first computer "bug" was an actual bug!**
 
