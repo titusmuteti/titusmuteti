@@ -5,15 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=titusmuteti" alt="titusmuteti" /></a> </p>
 
-- 🔭 I’m currently working on [Elimu hub](https://elimu-hub-eosin.vercel.app/)
-
-- 🌱 I’m currently learning **nest.js**
-
-- 👨‍💻 All of my projects are available at [https://portfolio-titusmuteti.vercel.app/](https://portfolio-titusmuteti.vercel.app/)
-
-- 💬 Ask me about **react, bootstrap, and rails**
-
-- 📫 How to reach me **titusmumo90@gmail.com**
+- 💬 Ask me about **Js, react, and rails**
 
 - ⚡ Fun fact **The first computer "bug" was an actual bug!**
 
