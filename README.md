@@ -15,7 +15,7 @@
 ### 👨‍💻 About
 
 * 💻 Fullstack developer
-* 💬 Ask me about **JavaScript, React & Ruby on Rails**
+* 💬 Ask me about **JavaScript, React, Python & Ruby on Rails**
 * ⚡ Fun fact: **The first computer "bug" was an actual bug!**
 
 ---
